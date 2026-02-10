@@ -40,10 +40,11 @@ ecommerce-oops/
 │── README.md
 
 ---
-
 ## ▶️ How to Run
 ```bash
 python main.py
+
+
 
 
 
