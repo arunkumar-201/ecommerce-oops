@@ -30,12 +30,10 @@ It models real-world entities like **Products, Orders, Electronics, Groceries, a
 
 ## 📁 Project Structure
 ecommerce-oops/
+
 │── product.py # Product and category classes
-
 │── order.py # Order and billing logic
-
 │── main.py # Program execution
-
 │── README.md
 
 ---
@@ -43,6 +41,6 @@ ecommerce-oops/
 ## ▶️ How to Run
 ```bash
 python main.py
-📌 Author
 
-Arun Kumar
+
+
