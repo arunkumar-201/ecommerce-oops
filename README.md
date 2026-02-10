@@ -32,8 +32,11 @@ It models real-world entities like **Products, Orders, Electronics, Groceries, a
 ecommerce-oops/
 
 │── product.py # Product and category classes
+
 │── order.py # Order and billing logic
+
 │── main.py # Program execution
+
 │── README.md
 
 ---
