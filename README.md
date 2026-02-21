@@ -43,7 +43,16 @@ ecommerce-oops/
 ## ▶️ How to Run
 ```bash
 python main.py
+```
+👨‍💻 Author
 
+Arun Kumar
+
+🎓 Engineering Student
+
+💻 Aspiring Full Stack Developer
+
+GitHub: https://github.com/arunkumar-201
 
 
 
